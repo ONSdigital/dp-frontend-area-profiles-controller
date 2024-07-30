@@ -1,4 +1,11 @@
 # dp-frontend-area-profiles
+
+---
+
+:warning: This repository will be archived in August 2024 as it is no longer in development. :warning:
+
+---
+
 MVC app for Geo Journey on ons web
 
 
